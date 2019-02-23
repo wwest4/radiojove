@@ -12,6 +12,10 @@ _autosave-*
 *-rescue.lib
 *-save.pro
 *-save.kicad_pcb
+*.s#[0-9]
+*.log
+*.sim
+*.sim.txt
 
 # Netlist files (exported from Eeschema)
 *.net
