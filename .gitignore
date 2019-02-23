@@ -14,6 +14,8 @@ _autosave-*
 *-save.kicad_pcb
 *.s#[0-9]
 *.b#[0-9]
+*.s##
+*.b##
 *.log
 *.sim
 *.sim.txt
